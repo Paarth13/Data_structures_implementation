@@ -1,0 +1,7 @@
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\obj\Debug\Data_structures.csprojResolveAssemblyReference.cache
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\obj\Debug\Data_structures.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\bin\Debug\Data_structures.exe.config
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\bin\Debug\Data_structures.exe
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\bin\Debug\Data_structures.pdb
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\obj\Debug\Data_structures.exe
+C:\Users\pvashisht\source\repos\Data_structures\Data_structures\obj\Debug\Data_structures.pdb
