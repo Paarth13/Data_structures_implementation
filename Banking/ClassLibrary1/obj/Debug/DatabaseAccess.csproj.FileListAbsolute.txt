@@ -1,0 +1,6 @@
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\obj\Debug\DatabaseAccess.csprojResolveAssemblyReference.cache
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\obj\Debug\DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\pvashisht\source\repos\Banking\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

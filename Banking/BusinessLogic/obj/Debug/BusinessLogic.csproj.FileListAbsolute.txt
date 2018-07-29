@@ -1,0 +1,8 @@
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\bin\Debug\ClassLibrary1.dll
+C:\Users\pvashisht\source\repos\Banking\BusinessLogic\bin\Debug\ClassLibrary1.pdb
