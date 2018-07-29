@@ -16,15 +16,15 @@ namespace Banking
 
              blogic blog = new blogic();
             int id=1,balance,flag=0;
-            //Console.WriteLine("Banking System\n");
-            //Console.WriteLine("Enter the Name");
-            //name = Console.ReadLine();
-            //Console.WriteLine("Enter the Account Type:\nSavings\nCurrent\nDMAT");
-            //AccountType = Console.ReadLine();
-            //Console.WriteLine("Enter the balance you want to add");
-            //balance = int.Parse(Console.ReadLine());
-            //blog.DataEntry(name, ++id, AccountType,balance);
-            //Console.WriteLine("Account has been added");
+            Console.WriteLine("Banking System\n");
+            Console.WriteLine("Enter the Name");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter the Account Type:\nSavings\nCurrent\nDMAT");
+            AccountType = Console.ReadLine();
+            Console.WriteLine("Enter the balance you want to add");
+            balance = int.Parse(Console.ReadLine());
+            blog.DataEntry(name, ++id, AccountType,balance);
+            Console.WriteLine("Account has been added");
             while (true)
             {
                 Console.WriteLine("\nFor more functions\nPress 1 for Display\nPress 2 for Deposit\nPress 3 for Withdrawl\nPress 4 to add account\nPress 5 to show Simple Interest\nPress 6 for exit");
